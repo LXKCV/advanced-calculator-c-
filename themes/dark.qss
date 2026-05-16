@@ -1,0 +1,6 @@
+QWidget { background:#121212; color:#ececec; font-family:'Segoe UI'; font-size:14px; }
+#sidebar { background:#1e1e1e; border-radius:16px; }
+QPushButton { background:#2d2d2d; border:none; border-radius:12px; padding:10px; }
+QPushButton:hover { background:#3f3f3f; }
+QLineEdit, QTextEdit, QListWidget { background:#202020; border:1px solid #333; border-radius:10px; padding:8px; }
+QLabel { color:#f2f2f2; }
